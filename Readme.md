@@ -12,7 +12,7 @@
 
 Here is an example of what the program shows if images are selected for prediction:
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/800px-Image_created_with_a_mobile_phone.png)
+![alt text](https://raw.githubusercontent.com/tajind/Deepfake-Detection/main/assets/AlexnetFigure-04-23-2022%2016-29-50.png)
 
 <br>
 
