@@ -1,6 +1,7 @@
 # Deepfake Detection using AlexNet and Meso-4 CNN models
 
-### This is my final-year university project where I've taken the challenge to implement the machine learning models to detect whether a face in an image is geuinne or not
+### This is my final-year university project where I've taken the challenge to implement the machine learning models to detect whether a face in an image is genuine or not
+
 
 <br>
 
@@ -8,7 +9,7 @@
 
 - Trains the AlexNet and Meso-4 models using a dataset
 - Creates the weights that are used to detect whether the image is genuine or not
-- Displays the results either in text file or using plots
+- Displays the results either in a text file or using plots
 
 Here is an example of what the program shows if images are selected for prediction:
 
@@ -20,7 +21,7 @@ Here is an example of what the program shows if images are selected for predicti
 
 - classifier.py hosts the 2 classifier classes
 - utils.py hosts the functions for any sort of operations
-- traning.py hosts the traning code for the models
+- traning.py hosts the training code for the models
 - detection.py hosts the detection code for the model
 - main.py hosts the UI framework to link everything together through UI
 
