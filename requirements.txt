@@ -1,0 +1,9 @@
+TensorFlow
+Keras
+numpy
+pandas
+PIL
+matplotlib
+seaborn
+sklearn
+tqdm
